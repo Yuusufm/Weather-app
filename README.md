@@ -15,5 +15,5 @@ Open index.html in your preferred web browser.
 
 Enter the city name in the search bar and press Enter or click the search button.
 
-Preview
+# Preview
 <img width="1402" alt="image" src="https://github.com/Yuusufm/Weather-app/assets/155135681/2f737279-c7e7-42e9-93cd-bad610dc68a6">
