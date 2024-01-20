@@ -14,6 +14,8 @@ git clone https://github.com/your-username/weather-app.git
 Open index.html in your preferred web browser.
 
 Enter the city name in the search bar and press Enter or click the search button.
+## Live Demo
 
+Check out the live demo: [Weather App Live Demo](https://yuusufs-weather.netlify.app/)
 # Preview
 <img width="1402" alt="image" src="https://github.com/Yuusufm/Weather-app/assets/155135681/2f737279-c7e7-42e9-93cd-bad610dc68a6">
